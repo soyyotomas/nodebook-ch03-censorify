@@ -4,8 +4,17 @@
 	"version": "0.1.1",
 	"description": "Censors words out the text",
 	"main": "censortext",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/soyyotomas/nodebook-ch03-censorify"
+	},
+	"keywords":[
+		"censor",
+		"words"
+	]
 	"dependencies": {},
 	"engines":{
 		"node":"*"
 	}
+	
 }
